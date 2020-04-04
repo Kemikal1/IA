@@ -3,6 +3,9 @@ KnnClassifier
  -test_data - datele care trb clasificate 
  -metric - tipul distantei folosite de clasificator(l1 sau l2)
  -num_neighbors - numarul de vecini cei mia apropiati pe care se face compararea
+ 
+ 
+ 
  clasifiy_data(test_data,num_neigbors,metric)
   -clasifica o fraza 
  clasify_datas(test_data,num_neigbors,metric)
