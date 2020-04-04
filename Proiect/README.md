@@ -6,6 +6,8 @@ KnnClassifier
  
  
  
+ 
+
  clasifiy_data(test_data,num_neigbors,metric)
   -clasifica o fraza 
  clasify_datas(test_data,num_neigbors,metric)
